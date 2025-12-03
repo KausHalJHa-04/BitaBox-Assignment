@@ -100,7 +100,7 @@ const Feature = () => {
       {/* RIGHT SIDE — TEXT + FEATURES */}
       <div className="right">
         <h2 className="feature-title">
-          Our Virtual Headsets <br /> Shine with Unique <br /> Features!
+          Our Virtual Headsets Shine <br />  with Unique Features!
         </h2>
 
         <ul className="feature-list">
