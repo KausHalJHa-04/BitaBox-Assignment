@@ -22,8 +22,8 @@ const Hero = () => {
         </p>
 
         <div className="buttons">
-          <button className="btn-primary">Visit Store <i class="ri-arrow-right-line"></i></button>
-          <button className="btn-outline">Explore <i class="ri-compass-line"></i></button>
+          <button className="btn-primary">Visit Store <i className="ri-arrow-right-line"></i></button>
+          <button className="btn-outline">Explore <i className="ri-compass-line"></i></button>
         </div>
 
         <h4>Follow Us</h4> <br />

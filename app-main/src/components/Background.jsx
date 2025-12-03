@@ -368,6 +368,8 @@ export default function Background({
 
     const setSize = () => {
       const el = containerRef.current;
+      if (!el) return; // guard against null ref (can happen during unmount)
+
       const width = el.clientWidth || 1;
       const height = el.clientHeight || 1;
 
